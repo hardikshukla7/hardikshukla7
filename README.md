@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on Physics Applied ML, and Motion Planning Projects
 - 📫 Reach out to me on Linkedin@ https://www.linkedin.com/in/hardikshukla7/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can do abacus XD
+- ⚡ Fun fact: I do abacus and play soccer 
 
 <!---
 hardikshukla7/hardikshukla7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
